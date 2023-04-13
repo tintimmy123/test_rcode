@@ -15,3 +15,4 @@ gitcreds::gitcreds_set("http://github.com")
 usethis::edit_git_ignore() #then add it in the gitignore doc
 
 usethis::edit_git_ignore(scope = "project")
+11
